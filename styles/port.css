@@ -215,7 +215,7 @@ line-height: 28px;
     justify-content: space-around;
     padding: 130px 200px;
     background-color: #FFF8F3;
-}
+   }
 
 .section-title{
     color: #181818;
@@ -229,7 +229,20 @@ font-weight: 700;
     font-size: 16px;
     font-weight: 400;
     line-height: 28px;}
+    
 
 .footer-img-icon{
     margin-right: 25px;
+}
+
+
+.contact input,textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    color: #757575;
+    border: none;
+    border-radius: 5px;
+    background-color: #FFF;
+    width: 100%;
 }
