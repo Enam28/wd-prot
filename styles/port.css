@@ -61,6 +61,7 @@ border-radius: 10px;
         font-weight: 700;
         line-height: normal;
         padding: 130px 0 0 0;
+        margin-top: 120px;
         }
 .paratwo{
     color: #757575;
@@ -133,4 +134,38 @@ color: #757575;
 }
 .skill-container{
     display: flex;
+
+}
+.skill-description{
+    
+    color: var(--dark-03, #757575);
+font-family: Open Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+}
+.skill-title{
+    color: var(--dark-01, #181818);
+text-align: center;
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.skill{
+    padding: 100px;
+    gap: 24px;
+    
+box-shadow: #757575 5px 5px 5px 0px ;
+}
+/* resume section styles */
+.resume-column-title{
+    color: var(--dark-02, #474747);
+font-family: Open Sans;
+font-size: 30px;
+
+font-weight: 700;
+
 }
